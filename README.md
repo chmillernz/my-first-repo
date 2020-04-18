@@ -1,30 +1,23 @@
-# This is a large heading
+# Chris Miller
+## Bio
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Wellington, New Zealand.
 
-- This is
-- an unordered
-- list
+### Interests
 
-1. This is
-2. an ordered
-3. list
+- **Medical Sciences** particularly *Medicine* and *Medical devices*
+- **Microbiology** particularly *infectious diseases* and *pathology*
+- **Therapeutics** particularly *small molecules* and *biomaterials*
+- **Management** particularly *agile* and *lean* dynamic project, personal and small team management systems
 
-Here is `some code` in the middle of a sentence.
+### Learning Areas
 
-```
-This is
-a block
-of code
-```
+1. Genomics and metagenomics
+2. Bioinformatics
+3. Contemporary techniques in molecular biology
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Contact
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+Try and [find](google.com) me
